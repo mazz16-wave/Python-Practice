@@ -1,0 +1,10 @@
+str="My name is Khushi and I am 18 years old."
+print(str.upper())
+print(str.lower())
+print(str.capitalize())
+print(str.replace("Khushi","Mahasweta"))
+print(str.find("is"))
+print(str.startswith("My"))
+print(str.endswith("old."))
+print(str.split())
+print("-".join([str,"I am very happy today"]))
